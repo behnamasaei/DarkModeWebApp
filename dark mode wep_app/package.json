@@ -1,0 +1,23 @@
+{
+  "name": "dark_web_app",
+  "version": "1.0.0",
+  "description": "Toggle Light and Dark web page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/behnamasaei/DarkModeWebApp.git"
+  },
+  "keywords": [
+    "darkMode",
+    "lightMode"
+  ],
+  "author": "Behnam Asaei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/behnamasaei/DarkModeWebApp/issues"
+  },
+  "homepage": "https://github.com/behnamasaei/DarkModeWebApp#readme"
+}

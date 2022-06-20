@@ -1,0 +1,14 @@
+.light,
+.light * {
+    background-color: #e6e6e6;
+    color: #222;
+    border-color: #222;
+}
+
+
+.dark,
+.dark * {
+    background-color: #222;
+    color: #e6e6e6;
+    border-color: #e6e6e6;
+}
